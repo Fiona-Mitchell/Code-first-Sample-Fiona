@@ -1,0 +1,66 @@
+element.style {
+}
+body {
+    font-family: "Avenir Next",sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #1c1b1b;
+    background: #efefef;
+    line-height: 1.65;
+}
+body {
+    margin: 0;
+}
+*, *:before, *:after {
+    -webkit-box-sizing: border-box !important;
+    box-sizing: border-box !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+Style Attribute {
+    --window-height: 605px;
+    --header-height: 62px;
+    --header-is-not-transparent: 0;
+}
+:root {
+    --header-is-not-transparent: 0;
+    --header-is-transparent: 1;
+}
+:root {
+    --use-sticky-header: 1;
+    --use-unsticky-header: 0;
+}
+html {
+    font-size: 30px;
+}
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+}
+*, *:before, *:after {
+    -webkit-box-sizing: border-box !important;
+    box-sizing: border-box !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+*, *:before, *:after {
+    -webkit-box-sizing: border-box !important;
+    box-sizing: border-box !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+*, *:before, *:after {
+    -webkit-box-sizing: border-box !important;
+    box-sizing: border-box !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
